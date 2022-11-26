@@ -115,8 +115,8 @@ span {
   }
 
   .boton {
-    font-size: 10px;
-    padding: 8px 5px;
+    font-size: 12px;
+    padding: 5px;
     border: 1px solid black;
   }
 
@@ -126,12 +126,12 @@ span {
 
   li {
     margin: 3px;
-    font-size: 10px;
+    font-size: 8px;
   }
   .segundaprincipal{
-    padding: 10px 7px;
+    padding: 10px 10px;
     height: 70px;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   .cuerpo{
     height: 535px;
